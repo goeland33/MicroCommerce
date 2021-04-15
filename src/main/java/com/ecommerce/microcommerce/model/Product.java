@@ -10,7 +10,6 @@ import javax.validation.constraints.Min;
 
 @Entity
 //@JsonFilter("monFiltreDynamique")
-//Essai
 public class Product {
 
     @Id
